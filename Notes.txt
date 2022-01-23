@@ -1,0 +1,2 @@
+επιλεγω τις γραμμες που θελω control+slash για να κανω ολες τισ γραμμες σχολεια
+while(tmpNode.depth>maxdepth):
