@@ -200,7 +200,7 @@ def Astar(queue):
     print("Nodes:", counter)
     path=backTracePath(tmpNode)
     return path
-
+print("hi")
 lst = []
 labyrinth = []
 global totalColumns
